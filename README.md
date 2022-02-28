@@ -1,5 +1,5 @@
 # Donghyeob Kang
-_Junior Web Developer_ 공사중
+_Junior Web Developer_
 
 ### ⚙ ***Stack***
 
@@ -11,4 +11,17 @@ _Junior Web Developer_ 공사중
 
 ### 💻 ***Blog***
 
-<a href="https://donghyeob-devlog.tistory.com/"><img src="https://img.shields.io/badge/-Donoghyeob's%20Blog-orange?style=for-the-badge&logo=Bloglovin" /></a>
+<a href="https://donghyeob-devlog.tistory.com/"><img src="https://img.shields.io/badge/-Donoghyeob's%20Blog-orange?label=Blog&labelColor=09B3AF&style=for-the-badge&logo=Bloglovin" /></a>
+
+
+## Career
+* 미래해양정보기술 (2021.12 ~ )
+  * Back-end Engineer
+  * Spring Boot, MariaDB, Mybatis
+
+* millionware (2020.09 ~ 2021.02)
+  * Front-end, Back-end, Infra Engineer
+  * Spring 3.x, JSP, Jquery, easyUI, Jenkins
+
+## Contacts
+✉ ***donghyeob.k@gmail.com***
