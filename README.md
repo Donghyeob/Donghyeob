@@ -23,5 +23,9 @@ _Junior Web Developer_
   * Front-end, Back-end, Infra Engineer
   * Spring 3.x, JSP, Jquery, easyUI, Jenkins
 
+* 수상에스티 (2018.01 ~ 2020.04)(Intern)
+  * Front-end, Back-end
+  * HTML, CSS, JS, Node.js
+
 ## Contacts
 ✉ ***donghyeob.k@gmail.com***
