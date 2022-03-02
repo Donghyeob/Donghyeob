@@ -20,7 +20,7 @@ _Junior Web Developer_
   * Spring Boot, MariaDB, Mybatis
 
 * millionware (2020.09 ~ 2021.02)
-  * Front-end, Back-end, Infra Engineer
+  * Front-end, Back-end
   * Spring 3.x, JSP, Jquery, easyUI, Jenkins
 
 * 수상에스티 (2018.01 ~ 2020.04)(Intern)
