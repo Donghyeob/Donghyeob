@@ -21,11 +21,11 @@ _Junior Web Developer_
 
 * millionware (2020.09 ~ 2021.02)
   * Front-end, Back-end
-  * Spring 3.x, JSP, Jquery, easyUI, Jenkins
+  * Spring 3.x, JSP, Oracle, Jquery, easyUI, Jenkins
 
 * 수상에스티 (2018.01 ~ 2020.04)(Intern)
   * Front-end, Back-end
-  * HTML, CSS, JS, Node.js
+  * HTML, CSS, JS, Node.js, MySQL
 
 ## Contacts
 ✉ ***donghyeob.k@gmail.com***
