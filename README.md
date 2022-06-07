@@ -15,7 +15,7 @@ _Junior Web Developer_
 
 
 ## Career
-* 미래해양정보기술 (2021.12 ~ )
+* 미래해양정보기술 (2021.12 ~ 2022.06)
   * Back-end Engineer
   * Spring Boot, MariaDB, Mybatis
 
